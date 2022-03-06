@@ -29,7 +29,7 @@ In the face of this spy technology, security software such as keepass/keepassXC 
 0# 成为大地（如果这种spy技术是依赖电磁波技术,接地是万能的, 但有可能只能用于防御不被标记/制作成spy设备）
 1# 隔音材料+电磁屏蔽材料做的房子，常见材料有泡沫夹层铁皮板材，泡沫铝材料等
 2# 电磁屏蔽材料（铁皮房）做的房子
-3# 扰动气流（喇叭或者其他音频振动。。。）#这取决spy设备(例如工作频率)
+3# 扰动气流/降噪技术（喇叭或者其他音频振动。。。）#这取决spy设备(例如工作频率) 可能只能破解幻听(如果spy技术不是通过耳朵器官入侵脑部,就只能废了幻听).
 4# 防止录音干扰屏蔽器/录音屏蔽器,可能需要防次声波干扰功能
 5# 破坏spy对象的标记/id,标记/id大概率是基站设备制作的(将spy对象制作成spy设备),耳鸣消失就应该是解除标记(不完全解除),改进后的spy技术可以通过标记spy对象附近的事物实施spy任务,这会导致耳鸣消失.
 6# 幻听极大可能是spy技术的一种能量直接传导到耳蜗,能量可能跟电磁波有关,但不是教科书描述的那种电磁波,除了电场和磁场还有一种能量(扰动空气的能量).
@@ -93,6 +93,7 @@ In the face of this spy technology, security software such as keepass/keepassXC 
 # 可能这种spy技术和核磁共振技术有关 
 # 雷达技术才能做到远距离获得spy对象(spy设备B)的脑部信息,这种spy技术可能是使用次声波雷达.
 # 俄罗斯僵尸枪
+- 挠场波/扭转场
 
 ##
 这种spy技术(神仙技术)的一些能力
@@ -138,7 +139,7 @@ spy任务从业人员都有可能是被脑控后的行为,自从专利被驳回�
 狗子接到新的任务后(spy技术实施者通过上面提到的spy技术拿出了spy对象2019开始做的笔记,spy技术实施者以为是乱写,但调查结果不是乱写,spy对象被2#远程脑控审讯才有这个笔记),spy对象劝过狗子不要将笔记拿出来,通过找狗子面谈(被拒绝)>遥遥0(放任狗子)>纪检(无效)>国家安全部(拿狗子没办法)>前面都无效才有这份笔记,有趣的是没有人能法办狗子,狗子不是平民可以绕过法律约束.
 # 有趣的是狗子拿出笔记的时间线和专利驳回很近.
 # spy对象(spy设备B)没法看到/接触spy设备,可将这份内容看成是研究spy技术的笔记,同样也是废了spy技术的笔记.
-# 在更新这份笔记时spy对象仍然正被spy技术实施人/spy任务实施人 窃取脑部信息/智慧产权.
+# 在更新这份笔记时spy对象仍然正被spy技术实施人/spy任务实施人/spy大会 窃取脑部信息/智慧产权.spy任务实施人对这种窃取脑部记忆的spy非常上瘾.
 
 #nasa
 There is an ancient spy technology that is threatening all human beings, hacking into the brain and stealing everything through the organs connected to the human brain, this technology is two-way.
